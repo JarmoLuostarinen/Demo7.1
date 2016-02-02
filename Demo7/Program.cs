@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+Jarmo Luostarinen
+K3295
+*/
+
+
+
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
